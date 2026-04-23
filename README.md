@@ -43,9 +43,10 @@ Pasante de Ingeniería en Computación (UAM Cuajimalpa) con experiencia en desar
 | SIGMED_API | API REST con autenticación JWT para SIGMED | Java 17+, JAX-RS, Maven |
 
 ### 🎓 Académicos
-| [Sistema Administrador de Restaurante](https://github.com/OrlandoManM/Sistema-Restaurante-Docs) | Gestión de pedidos e inventario | Java, POO, UML |
+| [Sistema Administrador de Restaurante](https://github.com/OrlandoManM/Sistema-Restaurante-Docs) 
+| Gestión de pedidos e inventario 
+| Java, POO, UML
 | Documentación del diseño de un sistema de gestión de pedidos e inventario para restaurante.
-| Contenido
   - Requerimientos funcionales y no funcionales
   - Diagramas UML (clases, casos de uso, secuencia)
   - Modelo de datos (niveles 0-3)
