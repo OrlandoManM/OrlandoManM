@@ -2,12 +2,12 @@
 # Hola, soy Orlando 👋
 Un apasionado ingeniero en computación, con un fervor por el desarrollo de software, análisis de datos y diseño de sistemas. Estoy en la búsqueda constante de desafíos emocionantes donde pueda aplicar mis habilidades y conocimientos.<br><br>Mi viaje en el mundo de la computación me ha llevado a dominar diversas tecnologías y metodologías, desde el desarrollo de aplicaciones hasta la implementación de soluciones de análisis de datos. Mi enfoque siempre ha sido encontrar soluciones innovadoras y eficientes para los problemas más complejos.<br><br>Me entusiasma trabajar en entornos dinámicos y desafiantes donde pueda colaborar con equipos talentosos y creativos. Mi objetivo es contribuir al éxito de proyectos, al mismo tiempo, sequir aprendiendo y creciendo profesionalmente.<br><br>
 
+Pasante de Ingeniería en Computación (UAM Cuajimalpa) con experiencia en desarrollo backend, APIs REST y despliegue en ambiente de pruebas. Diseñé y desplegué de forma independiente un sistema web institucional completo para una dependencia del gobierno de la CDMX.
 
-Pasante de Ingeniería en Computación (UAM Cuajimalpa) con experiencia en desarrollo backend, APIs REST y despliegue en producción. Diseñé y desplegué de forma independiente un sistema web institucional completo para una dependencia del gobierno de la CDMX.
 ---
 
-- 🏛️ Desarrollé **SIGMED** y **SIGMED_API** para SEGIAGUA (gobierno CDMX)
-- ☕ Stack principal: **Java 17–23 · Jakarta EE · JAX-RS · JWT**
+- 🏛️ Desarrollo: **SIGMED** y **SIGMED_API** para SEGIAGUA (gobierno CDMX)
+- ☕ Stack principal: **Java 17+ · Jakarta EE · JAX-RS · JWT**
 - 🐧 Desplegué en servidor **Linux / Apache Tomcat**
 - 📐 Modelado **UML**, metodología **SCRUM**
 - 🌱 Aprendiendo: **Spring Boot 3 · Microservicios · OpenAPI / Swagger**
@@ -17,7 +17,7 @@ Pasante de Ingeniería en Computación (UAM Cuajimalpa) con experiencia en desar
 
 ## 🛠️ Tecnologías
 
-![Java](https://img.shields.io/badge/Java_17--23-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-007396?style=for-the-badge&logo=jakartaee&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
